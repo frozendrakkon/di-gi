@@ -3,10 +3,26 @@
 $accent: #2B4074;
 $text-color: #4a4a4a;
 $bg_color: #F9F6E5;
+$defolt-color: #989898;
 
 %dosis-300 {
     font-family: "Dosis-Light";
     font-weight: 300
+}
+
+%dosis-500 {
+    font-family: "Dosis-Medium";
+    font-weight: 500
+}
+
+%robotocondensed-400 {
+    font-family: "RobotoCondensed-Regular";
+    font-weight: 300
+}
+
+%robotocondensed-700 {
+    font-family: "RobotoCondensed-Bold";
+    font-weight: 700
 }
 
 %roboto-500 {
